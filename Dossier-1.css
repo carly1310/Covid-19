@@ -173,7 +173,7 @@
     margin-left: initial;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 765px;
+  min-height: 769px;
 }
 
 .u-section-3 .u-list-1 {
@@ -182,7 +182,7 @@
   grid-template-rows: auto;
   grid-gap: 19px 19px;
   width: 1153px;
-  margin: 0 -12px 40px auto;
+  margin: 0 -12px 44px auto;
 }
 
 .u-section-3 .u-list-item-1 {
@@ -250,7 +250,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 643px;
+    min-height: 647px;
   }
 
   .u-section-3 .u-list-1 {
